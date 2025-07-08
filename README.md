@@ -26,20 +26,6 @@
    css_reload KillLosers
    ```
 
-## 💻 Build from source
-
-If you want to build the plugin manually:
-
-```bash
-dotnet restore
-dotnet build -c Release
-```
-
-Output will be in:
-```
-bin/Release/net8.0/KillLosers.dll
-```
-
 ## ✅ Requirements
 
 - CS2 dedicated server
