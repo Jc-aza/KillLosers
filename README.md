@@ -14,7 +14,7 @@
 
 ## 📦 Installation
 
-1. Copy `KillLosers.dll` into your server directory:
+1. Copy `KillLosers folder` into your server directory:
 
    ```bash
    cs2/addons/counterstrikesharp/plugins/
